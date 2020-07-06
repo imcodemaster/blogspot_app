@@ -17,6 +17,7 @@ django-bootstrap-form==3.4
 django-crispy-forms==1.9.1
 Pillow==7.1.2
 python3 ==3.1.0
-
-
+Admin panel --
+Userid - vinay
+Password - vinay2020
 Keep learning =) 
